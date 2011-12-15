@@ -20,6 +20,9 @@ about: >
     I'm Librae, a <a href="http://github.com/LeafGrass">LeafGrass</a> developer
     and embedded programming lover. You can fork me on <a href="http://github.com/librae8226">GitHub</a>.
 
+disqus:
+    id:         librae8226
+
 nav:
     - name:     Home
       url:      /
