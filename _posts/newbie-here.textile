@@ -1,0 +1,25 @@
+---
+layout:   post
+title:    Newbie Here?
+category: javascript
+---
+
+Have you ever been here?
+
+{% highlight c %}
+int welcome(void *args)
+{
+	if (to_welcome) {
+		while(1) {
+			applause();
+		}
+	}
+
+	/* should never be here */
+	return S_OK;
+}
+{% endhighlight %}
+
+You can watch "ousia source code":ousia for all the resources!
+
+[ousia]http://github.com/LeafGrass/ousia
