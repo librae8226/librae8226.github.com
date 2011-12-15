@@ -40,4 +40,3 @@ namespace :deploy do
     sh "rsync -rtz --delete _site/ scottwkyle@appden.com:~/#{domain}/"
   end
 end
-

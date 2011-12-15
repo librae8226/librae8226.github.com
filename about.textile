@@ -4,13 +4,13 @@ permalink:  /about/
 title:      About Me
 ---
 
-h2. About Me
+h2. About Us
 
 !>{margin-left: 10px;}/lib/images/me.jpg(an example)!
 
 (double-space)* Librae
-* "Inkling":http://leafgrass.tk
-* Zigong ➡  Harbin ➡  Shanghai
+* "Homesite":http://leafgrass.tk
+* Zigong -> Harbin -> Shanghai
 * HITHD
 
 h2{padding-top: 20px;}. Site Credits
