@@ -56,9 +56,9 @@ footer:
       action:   The ousia of our nature.
 
 copyright:
-    - Design by <a href="http://ipsleung.com">Iris Leung</a>
-    - "&copy; Copyright 2010, AppDen. All Rights Reserved."
-    - "&copy; Copyright 2011, Librae. All Rights Reserved."
+    - Design by <a href="http://ipsleung.com">Iris Leung</a>.
+    - "&copy; Copyright 2010, <a href="http://appden.com">Scott Kyle</a>. All Rights Reserved."
+    - "&copy; Copyright 2011, <a href="http://leafgrass.tk">Librae</a>. All Rights Reserved."
 
 css:
     - /lib/appden.css
