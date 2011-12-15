@@ -21,6 +21,17 @@ about: >
     and embedded programming lover. You can fork me on <a href="http://github.com/librae8226">GitHub</a>.
 
 nav:
+    - name:     Home
+      url:      /
+
+    - name:     Projects
+      url:      /
+      subnav:
+        - name: Ousia
+          url:  /
+        - name: QuadroCopter
+          url:  /
+
     - name:     Blog
       url:      /
 
