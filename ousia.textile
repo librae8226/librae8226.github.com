@@ -1,0 +1,75 @@
+---
+layout:     page
+permalink:  /ousia/
+title:      Ousia
+---
+
+h2. Ousia
+
+!>{margin-left: 10px;}/lib/images/me.jpg(an example)!
+
+(double-space)* Librae
+* "Homesite":http://leafgrass.tk
+* Zigong -> Harbin -> Shanghai
+* HITHD
+
+h2{padding-top: 20px;}. Architecture
+
+==================================================
+Real-Time Ousia (would) contain these components:
+
+    (+) User interface
+        (+) Shell
+    (+) Kernel
+        (+) Scheduler
+        (+) Interrupt Handler
+        (+) Memory Management/Protection
+        (+) Multitasking
+        (-) File System
+		(-) Virtual File System
+        (+) Device Driver
+        (-) Multi Platform Porting
+    (-) Communication
+	    (-) IP Stack
+    (-) Security
+
+	(-) Automation Test Suite
+    (*) Build System
+	(+) Documentation System
+
+
+Ps: (*) Has been implemented.
+    (-) Hasn't been implemented yet.
+    (+) Under developing.
+
+==================================================
+
+Layer 3
+    +-----------------------------------
+    |           application            |
+    +-----------------------------------
+
+Layer 2
+     __syscall__    ____direct_call_____
+    +-----------+  +--------------------+
+    |           |  |     framework      |
+    |    core   |  +--------------------+
+    |           |   _____direct_call____
+    +   ~ ~ ~   +  +--------------------+
+    |    port   |  |       driver       |
+    +-----------+  +--------------------+
+
+Layer 1
+    +-----------------+----------------+
+    |           platform (hal)         |
+    +-----------------+----------------+
+
+Layer 0
+    +----------------------------------+
+    |            hardware              |
+    +----------------------------------+
+
+Layer 3: application
+Layer 2: os core routines, frameworks and drivers
+Layer 1: hardware abstraction layer
+Layer 0: specific board

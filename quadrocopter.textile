@@ -1,0 +1,7 @@
+---
+layout:     page
+permalink:  /quadrocopter/
+title:      QuadroCopter
+---
+
+Retained.

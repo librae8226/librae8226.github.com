@@ -31,9 +31,9 @@ nav:
       url:      /
       subnav:
         - name: Ousia
-          url:  /
+          url:  /ousia/
         - name: QuadroCopter
-          url:  /
+          url:  /quadrocopter/
 
     - name:     Blog
       url:      /
