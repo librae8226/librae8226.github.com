@@ -6,25 +6,19 @@ exclude:
     - README.md
     - Rakefile
 
-title:          librae
-url:            http://appden.com
+title:          LeafGrass
+url:            http://librae8226.github.com
 feed:           /atom.xml
-description:    "Advanced JavaScript techniques, tips on avoiding those nasty CSS bugs, and musings on technological progress."
-comment:        Isn't it ironic there are no apps?
+description:    "librae projects"
+comment:        Keep It Simple Stupid
 
 author:
-    name:       Scott Kyle
-    email:      scott@appden.com
-    twitter:    appden
+    name:       Librae
+    email:      librae8226@gmail.com
 
 about: >
-    I'm Scott Kyle, a <a href="http://mootools.net">MooTools</a> developer
-    and Apple addict. You can follow me on <a href="http://twitter.com/appden">Twitter</a>,
-    fork me on <a href="http://github.com/appden">GitHub</a>, and check out some of my work
-    on my <a href="/portfolio/">portfolio</a>.
-
-disqus:
-    id:         appden
+    I'm Librae, a <a href="http://github.com/LeafGrass">LeafGrass</a> developer
+    and embedded programming lover. You can fork me on <a href="http://github.com/librae8226">GitHub</a>.
 
 nav:
     - name:     Blog
@@ -37,7 +31,7 @@ nav:
       url:      /about/
       subnav:
         - name: Contact
-          url:  mailto:scott-at-dotcom-after-appden
+          url:  mailto:librae8226-at-dotcom-after-gmail
 
 
 footer:
@@ -50,6 +44,7 @@ footer:
 copyright:
     - Design by <a href="http://ipsleung.com">Iris Leung</a>
     - "&copy; Copyright 2010, AppDen. All Rights Reserved."
+    - "&copy; Copyright 2011, Librae. All Rights Reserved."
 
 css:
     - /lib/appden.css
