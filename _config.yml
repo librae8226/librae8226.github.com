@@ -57,8 +57,8 @@ footer:
 
 copyright:
     - Design by <a href="http://ipsleung.com">Iris Leung</a>.
-    - "&copy; Copyright 2010, <a href="http://appden.com">Scott Kyle</a>. All Rights Reserved."
-    - "&copy; Copyright 2011, <a href="http://leafgrass.tk">Librae</a>. All Rights Reserved."
+    - Copyright (C) 2010, <a href="http://appden.com">Scott Kyle</a>. All Rights Reserved.
+    - Copyright (C) 2011, <a href="http://leafgrass.tk">Librae</a>. All Rights Reserved.
 
 css:
     - /lib/appden.css
