@@ -6,7 +6,7 @@ category: javascript
 
 Have you ever been here?
 
-{% highlight c %}
+{% highlight C %}
 int welcome(void *args)
 {
 	if (to_welcome) {

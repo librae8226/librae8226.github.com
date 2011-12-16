@@ -6,7 +6,7 @@
 	<link href="http://librae8226.github.com/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://librae8226.github.com" rel="alternate" type="text/html" />
 	<id>http://librae8226.github.com</id>
-	<updated>2011-12-16T12:18:33+08:00</updated>
+	<updated>2011-12-16T15:23:11+08:00</updated>
 	<author>
 		<name>Librae</name>
 	</author>
@@ -18,7 +18,7 @@
 			<updated>2011-12-15T00:00:00+08:00</updated>
 			<id>http://librae8226.github.com/javascript/newbie-here</id>
 			<content type="html">&lt;p&gt;Have you ever been here?&lt;/p&gt;
-&lt;p&gt;Liquid error: undefined method `join&amp;#8217; for #&lt;String:0x7fea786fdc08&gt;&lt;/p&gt;
+&lt;p&gt;Liquid error: undefined method `join&amp;#8217; for #&lt;String:0x7f295ccc9a48&gt;&lt;/p&gt;
 &lt;p&gt;You can watch &lt;a href=&quot;http://github.com/LeafGrass/ousia&quot;&gt;ousia source code&lt;/a&gt; for all the resources!&lt;/p&gt;</content>
 		</entry>
 	

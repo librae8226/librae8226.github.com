@@ -15,8 +15,7 @@ task :default do
 end
 
 desc "Serve on Localhost with port 4000 using development version"
-task :unstable do
-  jekyll "--server --auto", "../jekyll/bin/"
+task :unstable do jekyll "--server --auto", "../jekyll/bin/"
 end
 
 desc "Deploy to Dev"
